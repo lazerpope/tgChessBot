@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@chrisoakman/chessboardjs": "^1.0.0",
+    "canvacord": "^5.4.3",
+    "chess-image-generator": "^1.0.9",
+    "chess.js": "^0.13.4",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.5.1",
+    "node-telegram-bot-api": "^0.58.0",
+    "telegram-bot-api": "^2.0.1"
+  },
+ 
+  "name": "tg_chess",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "maxim kalinin",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
